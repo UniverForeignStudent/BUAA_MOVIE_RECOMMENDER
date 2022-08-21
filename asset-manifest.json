@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BUAA_MOVIE_RECOMMENDER/static/css/main.c7aa4b55.css",
+    "main.js": "/BUAA_MOVIE_RECOMMENDER/static/js/main.d0b19717.js",
+    "index.html": "/BUAA_MOVIE_RECOMMENDER/index.html",
+    "main.c7aa4b55.css.map": "/BUAA_MOVIE_RECOMMENDER/static/css/main.c7aa4b55.css.map",
+    "main.d0b19717.js.map": "/BUAA_MOVIE_RECOMMENDER/static/js/main.d0b19717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7aa4b55.css",
+    "static/js/main.d0b19717.js"
+  ]
+}
